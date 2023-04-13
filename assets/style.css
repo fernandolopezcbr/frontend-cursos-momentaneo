@@ -388,6 +388,7 @@ button {
   width: 200px;
   justify-self: center;
   animation: floating 2s ease-in-out infinite;
+  border-radius: 50%;
 }
 /* TRICK OR TREAT */
 .trick__container {
