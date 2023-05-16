@@ -3,7 +3,7 @@
   "short_name": "#PortafolioCursosDigital",
   "description": "Bienvenid@s a #PortafolioCursosDigital, contenido de cursos, donde se encuentran la mayor parte de contenido recibido durante la carrera , recuerda agregar a tu pantalla :)",
   "background_color": "#2B2B2B",
-  "theme_color": "yellow",
+  "theme_color": "#FFFFFF",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
