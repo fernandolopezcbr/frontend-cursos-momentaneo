@@ -283,7 +283,7 @@ html{
 
 
             const texto = $formulario.value.toLowerCase();
-            for(let producto of filtrado){
+            for(let producto of filtrado.reverse()){
                 let title = producto.title.toLowerCase();
                 if(title.indexOf(texto) !== +1){
                     
