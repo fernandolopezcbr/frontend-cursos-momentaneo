@@ -285,7 +285,7 @@ html{
             const texto = $formulario.value.toLowerCase();
             for(let producto of filtrado){
                 let title = producto.title.toLowerCase();
-                if(title.indexOf(texto) !== -1){
+                if(title.indexOf(texto) !== +1){
                     
                    
                     //$resultado.innerHTML = `<h3 class="card-title">${producto.nombre} </h3>`;
